@@ -24,12 +24,12 @@ The path is an infinite twisted tunnel.
 
 ### Some Obstacles were added and animated using C# transform.rotate function...
 #### Game in action GIF
-#### Purpose of the game is to keep running and not hit the obstacle
+#### Purpose of the game is to keep running and not hit the obstacles
 ![](https://github.com/buzo1234/CreateAThon-Team-TLE/blob/main/game_GIF.gif)
 
 # Future work 
 We can use OpenCV and python to make it a more interactive game.
 We can track head movements and send commands to unity as either "LEFT" / "RIGHT" according to our head's movement.
 
-#### Little demo of the work's progress...
+#### Little demo of the work's progress
 ![](https://github.com/buzo1234/CreateAThon-Team-TLE/blob/main/FutureWork.gif)
