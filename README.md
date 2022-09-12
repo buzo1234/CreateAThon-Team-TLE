@@ -25,5 +25,6 @@ The path is an infinite twisted tunnel.
 ### Some Obstacles were added and animated using C# transform.rotate function...
 #### Game in action GIF
 #### Purpose of the game is to keep running and not hit the obstacle
+![](https://github.com/buzo1234/CreateAThon-Team-TLE/blob/main/game_GIF.gif)
 
 
