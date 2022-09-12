@@ -32,4 +32,4 @@ We can use OpenCV and python to make it a more interactive game.
 We can track head movements and send commands to unity as either "LEFT" / "RIGHT" according to our head's movement.
 
 #### Little demo of the work's progress
-![](https://github.com/buzo1234/CreateAThon-Team-TLE/blob/main/FutureWork.gif)
+![](https://github.com/buzo1234/CreateAThon-Team-TLE/blob/main/game_GIF.gif)
